@@ -13,19 +13,13 @@ This project is built with JavaScript and is a great example of a basic web appl
 
 Check out our project blog post for more information on the development process and our thoughts on the To Do List project:
 
-* [To Do List Using JS](https://www.codingninjas.com/codestudio/library/building-a-todo-list-using-javascript?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-todo-list-using-javascript)
-
-
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-To run this application locally, you need to clone this repository to your local machine. You can do this by running the following command in your terminal:
-1. Clone the repo `https://github.com/CodeStudio-Content/To-Do-List-JavaScript.git` 
-2. `cd To-Do-List-JavaScript`
+
 
 
 ## Usage
